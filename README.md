@@ -30,6 +30,6 @@ The dataset includes the following files:
 
 - 'features_info.txt': Shows information about the variables used on the feature vector.
 
-- 'features.txt': List of all features.
+- 'features_tidy.txt': List of all features.
 
-- 'tidy_data.txt': Mean of all variables described in features by Subject and Activity.
+- 'tidy_data.txt': Mean of all variables described in features_tidy.txt by Subject and Activity.
